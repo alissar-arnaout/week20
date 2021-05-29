@@ -21,13 +21,17 @@ p {
   font-family: 'Jura';
 }
 
+.btn {
+  background-color: red;
+  border-color: white;
+}
 
 /* nav */
 .customNav {
   position: fixed;
   width: 100%;
   background: url("../images/transparency.png");
-  background-color: transparent !important;
+  background-color: yellow !important;
   background-size: cover;
   z-index: 10;
 }
@@ -48,7 +52,7 @@ p {
 
 .dropdown-menu {
   background: url("../images/transparency.png");
-  background-color: transparent !important;
+  background-color: yellow !important;
   background-size: cover;
 }
 
@@ -122,6 +126,7 @@ p {
 .imageContainer img {
   width: 100%;
 }
+
 
 /* footer */
 .emailContain {
