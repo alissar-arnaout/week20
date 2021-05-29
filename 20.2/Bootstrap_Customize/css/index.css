@@ -82,3 +82,20 @@ p {
   color: white;
   text-align: center;
 }
+
+/* cards */
+.content {
+  padding: 50px;
+}
+
+.sectionHeading {
+  text-align: center;
+}
+
+.showsNear {
+  padding: 0px 30px 30px 30px;
+}
+
+.cardContainer {
+  text-align: center;
+}
